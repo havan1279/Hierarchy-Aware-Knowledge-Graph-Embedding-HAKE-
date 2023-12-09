@@ -1,1 +1,1 @@
-# Hierarchy-Aware-Knowledge-Graph-Embedding-HAKE-
+# Hierarchy-Aware-Knowledge-Graph-Embedding-HAKE
